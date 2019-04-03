@@ -1,3 +1,6 @@
 [submodule "demo"]
 	path = demo
 	url = https://github.com/zhuwenjie2/demo
+[submodule "DTLib"]
+	path = DTLib
+	url = https://github.com/zhuwenjie2/DTLib.git
